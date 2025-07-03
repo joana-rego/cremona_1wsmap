@@ -20,14 +20,14 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Cremona
+title: Cremona Music Map
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Live Music Mapping 
+tagline: A visual journey through Cremona's old and new music sites
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "Cremona music map"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Group C
 
 ##########
 # COLLECTION SETTINGS
@@ -42,7 +42,7 @@ metadata: groupc-metadata
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 # organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+# organization-logo-banner: https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Cremona.svg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
